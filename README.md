@@ -10,7 +10,7 @@ You must install node to run inquirer for the prompt to actually pop up in your 
 
 ## Usage
 
-<!-- add video here -->
+
 
 ## Credits
 
